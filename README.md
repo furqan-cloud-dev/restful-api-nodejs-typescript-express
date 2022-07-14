@@ -1,19 +1,19 @@
 # restful-api-nodejs-typescript-express
 Build RESTful API with Node.js best practices + Typescript, Express &amp; express middlewares, MongoDB, JWT
 
-Clone the repo\
-Open the folder in Visual Studio Code IDE\
-Execute Terminal Command for Typescript Compiler :  restapi % tsc\  
-A distribution folder will be created with generated javascript files\
+Clone the repo <br/>
+Open the folder in Visual Studio Code IDE <br/>
+Execute Terminal Command for Typescript Compiler :  restapi % tsc <br/> 
+A distribution folder will be created with generated javascript files <br/>
 
-Run the Node.js http Server:   restapi % node dist/app.js\\
+Run the Node.js http Server:   restapi % node dist/app.js <br/><br/>
 
-From Postman following APIs are accessible:\\
+From Postman following APIs are accessible:<br/><br/>
 
-Create User :    [ POST ] http://localhost:8080/users\
-Get All Users :    [ GET ] http://localhost:8080/users\
+Create User :    [ POST ] http://localhost:8080/users <br/>
+Get All Users :    [ GET ] http://localhost:8080/users <br/><br/><br/>
 
 
-Validations are performanced using npm package Joi:\ 
-https://www.npmjs.com/package/joi\
+Validations are performanced using npm package Joi:<br/>
+https://www.npmjs.com/package/joi <br/><br/>
 
