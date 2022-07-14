@@ -20,6 +20,6 @@ https://www.npmjs.com/package/joi <br/><br/>
 MongoDB database instance is required at localhost: <br/>
 'mongodb://localhost:27017/testing' <br/>
 
-For db Schemas, npm package mongoose is used: <br\>
+For db Schemas, npm package mongoose is used: <br/>
 https://mongoosejs.com/
 
