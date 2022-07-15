@@ -11,8 +11,16 @@ Run the Node.js http Server:   restapi % node dist/app.js <br/><br/>
 From Postman following APIs are accessible:<br/>
 
 Create User :    [ POST ] http://localhost:8080/users <br/>
-Get All Users :    [ GET ] http://localhost:8080/users <br/><br/>
+Get All Users :    [ GET ] http://localhost:8080/users <br/>
 
+Login :    [ POST ] http://localhost:8080/login <br/>
+Request (Json): {"username": "username@domain.com", "password": "123"} <br/>
+Response (Json): {
+    "access_token": "eyJhbGci..."
+} <br/>
+
+Get A User: [ GET ] http://localhost:8080/users/id <br/>
+Request Header: ['Authorization': "Bearer eyJhbGciOi..."] <br/><br/>
 
 Validations are performed using npm package Joi:<br/>
 https://www.npmjs.com/package/joi <br/><br/>
