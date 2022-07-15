@@ -1,5 +1,5 @@
-# restful-api-nodejs-typescript-express
-Build RESTful API with Node.js best practices + Typescript, Express &amp; express middlewares, MongoDB, JWT
+# restful-api-nodejs-typescript-express-es6+
+Build RESTful API with Node.js best practices + Typescript, Express &amp; express middlewares, MongoDB, JWT, ES6+
 
 Clone the repo <br/>
 Open the folder in Visual Studio Code IDE <br/>
