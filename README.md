@@ -1,9 +1,14 @@
 # restful-api-nodejs-typescript-express-es6+
 Build RESTful API with Node.js best practices + Typescript, Express &amp; express middlewares, MongoDB, JWT, ES6+
+<br/>
+npm package manager <br/>
+https://www.npmjs.com/ <br/>
 
 Clone the repo <br/>
 Open the folder in Visual Studio Code IDE <br/>
-Execute Terminal Command for Typescript Compiler :  restapi % tsc <br/> 
+Execute Terminal Commands: <br/> 
+Package dependencies: restapi % npm install <br/> 
+Typescript Compiler :  restapi % tsc <br/> 
 A distribution folder will be created with generated javascript files: "dist" <br/>
 
 Run the Node.js http Server:   restapi % node dist/app.js <br/><br/>
